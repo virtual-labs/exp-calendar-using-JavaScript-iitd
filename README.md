@@ -20,5 +20,6 @@ Fill a brief description of this experiment here
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+1 | Nidhi Goyal | Faculty | Information Technology | KIET Group of Institutions | nidhi.goyal@kiet.edu
+2 | Tulika Omrey | Student | MCA | KIET Group of Institutions | tulika.2224mca1043@kiet.edu
+

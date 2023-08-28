@@ -4,7 +4,7 @@
 <b>Discipline | <b>Computer Science Engineering
 :--|:--|
 <b> Lab | <b> Web Designing Lab
-<b> Experiment|     <b> To display the calendar using JavaScript code by getting the year from the user
+<b> Experiment|     <b> 7. To display the calendar using JavaScript code by getting the year from the user
 
 ### About the Experiment 
 

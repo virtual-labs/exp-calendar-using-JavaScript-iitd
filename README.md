@@ -1,20 +1,20 @@
 ## Introduction
 
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Computer Science Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Web Designing Lab
+<b> Experiment|     <b> To display the calendar using JavaScript code by getting the year from the user
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+<b>Name of Developer | <b> Nidhi Goyal
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  KIET Group of Institutions, Ghaziabad
+<b> Email id|     <b>  nidhi.goyal@kiet.edu
+<b> Department |  Information Technology 
 
 ### Contributors List
 

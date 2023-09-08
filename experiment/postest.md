@@ -1,7 +1,7 @@
 ## Post test
 <br>
 Q1) Console.log(3>2>1); 
-<br>Output of the code will be? <br>
+<br> Output of the code will be? <br>
 a. True <br>
 b. <b>False</b> <br>
 c. Syntax Error

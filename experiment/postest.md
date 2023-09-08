@@ -11,7 +11,7 @@ d. None
 <br>
 Q2) const isTrue = true == ![]; <br>
     const isFalse = false == []; <br>
-    console.log(isTrue + isFalse); <br>
+    console.log(isTrue + isFalse);
 <br> Output of the code will be? <br>
 a. 0 <br>
 b. <b>1</b> <br>

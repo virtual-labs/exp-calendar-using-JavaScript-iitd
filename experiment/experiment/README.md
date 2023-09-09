@@ -7,22 +7,17 @@
 </head>
 <body>
     <h2>Aim:</h2>
-<p>To create an html file by applying the different styles using inline, external & internal style sheets.</p>
+<p>To display the calendar using JavaScript code by getting the year from the user.</p>
 
 <h2>Theory:</h2>
-<p>The three styles used in CSS are:</p>
-<ul>
-    <li><u> Inline:</u> Inline CSS is used to style a specific HTML element. Style attribute is added to each HTML tag to style it. </li>
-    <li><u> Internal:</u> In this style, < style> tag is added in the < head> tag of the code for styling the elements. </li>
-    <li><u> External:</u> In this type, a separate file with .css extension is made and is linked to the code. </li>
-</ul>
-
+<p>The current task is to build a website that shows a calendar. The ability to go back and forth between months should be available on the calendar. It should be possible for the calendar to show the current date in a different color.</p>
 <h2>Procedure:</h2>
 <ul>
-    <li>Study the demo code given and understand the use of the type of styling.</li>
-    <li>Basic and Advanced use of the styles are given for better understanding.</li>
-    <li>Write the code in the given editor window and press the run button.</li>
-    <li>The output will be seen in the result window.</li>
+    <li>Use a table and the proper list elements to create the calendar's HTML structure.</li>
+    <li>Create JavaScript elements to display the current month and year on the page as well as variables to store the current month and year.</li>
+    <li>Create a method in JavaScript to show the calendar for the current month. The current month and year should be passed as arguments to this function, which will use them to calculate the number of days remaining in the current month, as well as the day the month began, and then fill in the appropriate number of days in the calendar.</li>
+    <li>Make navigational JavaScript functions for the upcoming and prior months.</li>
+    <li>The next and previous buttons can be added with JavaScript event listeners, which will cause them to call the proper navigation routines when clicked.</li>
 </ul>
 
 </body>

@@ -1,4 +1,4 @@
-#####These procedure steps will be followed on the simulator
+#### These procedure steps will be followed on the simulator
 
 1. Use a table and the proper list elements to create the calendar's HTML structure.
 

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>JS Editor</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <center>
+        <div class="container">
+            <div class="row">
+                <h3><b><u>JS Code Editor to display a calendar taking year as input.</u></b></h3>
+                <div class="col-sm-3">
+                    <div class="tbox">
+                        <p>To display calendar taking year as input</p>
+                        <br><br>
+                        <button type="button" class="btn btn-success" onclick="loadCalendar()">Implement this</button>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="tbox">
+                        <p>To highlight month taking month and year as input</p>
+                        <br>
+                        <button type="button" class="btn btn-success" onclick="loadMonthHighlight()">Implement this</button>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="tbox">
+                        <p>To highlight date taking date, month, and year as input</p>
+                        <br>
+                        <button type="button" class="btn btn-success" onclick="loadDateHighlight()">Implement this</button>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="tbox">
+                        <p>To display current date</p>
+                        <br> <br>
+                        <button type="button" class="btn btn-success" onclick="loadCurrentDate()">Implement this</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+
+    <center>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6">
+                    <div class="code">
+                        <textarea id="jsCode" style="height: 96%"></textarea>
+                        <button type="button" style="background-color: rgb(111, 151, 211); " class="btn btn-success" onclick="showPreview()">Try this out</button>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="preview">
+                        <iframe id="preview-window"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+
+    <center>
+        <div class="container">
+            <div class="row">
+                <h3> Try using Internal CSS yourself below. Add style attribute to different tags for designing a basic web page.</h3>
+                <div class="col-sm-6">
+                    <div class="code">
+                        <textarea onkeyup="showPreview2()" id="htmlCode2" placeholder="Write Code here!!" class="complete"></textarea>
+                    </div>
+                </div>
+                <div class="col-sm-6">
+                    <div class="preview">
+                        <iframe id="preview-window2"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </center>
+
+    <br>
+    <br>
+</body>
+<script src="javascript/scripts.js"></script>
+
+</html>

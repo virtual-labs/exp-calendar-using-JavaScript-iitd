@@ -6,7 +6,7 @@ a. True <br>
 b. <b>False</b> <br>
 c. Syntax Error
 d. None
-<br>
+<br><br>
 Q2. const isTrue = true == ![]; <br>
     const isFalse = false == []; <br>
     console.log(isTrue + isFalse); <br>

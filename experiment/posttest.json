@@ -1,19 +1,39 @@
-## Post test
-<br>
-Q1. Console.log(3>2>1); <br>
-<br>Output of the code will be? <br>
-a. True <br>
-b. <b>False</b> <br>
-c. Syntax Error
-d. None
-<br><br>
-Q2. const isTrue = true == ![]; <br>
-    const isFalse = false == []; <br>
-    console.log(isTrue + isFalse); <br>
-<br>Output of the code will be? <br>
-a. 0 <br>
-b. <b>1</b> <br>
-c. “true” <br>
-d. true <br>
-
-
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "This is a Sample Question 1?",
+      "answers": {
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "This is a Sample Question 2?",
+      "answers": {
+        "a": "answer1",
+        "b": "answer2",
+        "c": "answer3",
+        "d": "answer4"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}

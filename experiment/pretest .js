@@ -90,36 +90,27 @@
 
   const myQuestions = [
     {
-      question: "Which of the following function of String object returns the characters in a string beginning at the specified location through the specified number of characters?",  ///// Write the question inside double quotes
+      question: "What value will print to the console? Please select the closest answer:  const a = new Date('2023-01-01')  const b = new Date('2023-01-01T00:00') console.log(a.getFullYear(), b.getFullYear())",  ///// Write the question inside double quotes
       answers: {
-        a: " substr()",                  ///// Write the option 1 inside double quotes
-        b: "slice()",                  ///// Write the option 2 inside double quotes
-        c: "split()",                  ///// Write the option 3 inside double quotes
-        d: "search()"                   ///// Write the option 4 inside double quotes
+        a: "2019 2023",                  ///// Write the option 1 inside double quotes
+        b: "2023 2021",                  ///// Write the option 2 inside double quotes
+        c: "2023 2023",                  ///// Write the option 3 inside double quotes
+        d: "2023 2019"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "c"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "Which of the following function of String object creates a string to be displayed in a big font as if it were in a '<big>' tag?",  ///// Write the question inside double quotes
+     question: "What value will print to the console? Please select the closest answer: const d2 = new Date(2020, 1, 1) console.log(d2)",  ///// Write the question inside double quotes
       answers: {
-        a: "anchor()",                  ///// Write the option 1 inside double quotes
-        b: "big()",                  ///// Write the option 2 inside double quotes
-        c: "blink()",                  ///// Write the option 3 inside double quotes
-        d: "italics()"                   ///// Write the option 4 inside double quotes
+        a: "2023-02-01",                  ///// Write the option 1 inside double quotes
+        b: "2023-01-01",                  ///// Write the option 2 inside double quotes
+        c: "2023-03-01",                  ///// Write the option 3 inside double quotes
+        d: "2023-04-01"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },     
-     {
-     question: "Which of the following function of String object causes a string to be displayed in the specified size as if it were in a '<font size = 'size'>'tag?",  ///// Write the question inside double quotes
-      answers: {
-        a: "fixed()",                  ///// Write the option 1 inside double quotes
-        b: "fontsize()",                  ///// Write the option 2 inside double quotes
-        c: "fontcolor()",                  ///// Write the option 3 inside double quotes
-        d: "bold()"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },    ///// To add more questions, copy the section below 
+         ///// To add more questions, copy the section below 
     									                  ///// this line
 
 

@@ -90,36 +90,29 @@
 
   const myQuestions = [
     {
-      question: "Which of the following number object function returns the value of the number?",  ///// Write the question inside double quotes
+      question: "Console.log(3>2>1); Output of the code will be ?",  ///// Write the question inside double quotes
       answers: {
-        a: "valueOf()",                  ///// Write the option 1 inside double quotes
-        b: "tostring()",                  ///// Write the option 2 inside double quotes
-        c: "toLocalestring()",                  ///// Write the option 3 inside double quotes
-        d: "toPrecision()"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+        c: "Syntax Error",                  ///// Write the option 3 inside double quotes
+        d: "None"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "Choose the correct snippet from the following to check if the variable 'a' is not equal the 'NULL':",  ///// Write the question inside double quotes
+      question: "const isTrue = true == ![];  const isFalse = false == []; console.log(isTrue + isFalse);",  ///// Write the question inside double quotes
       answers: {
-        a: "if(a!null)",                  ///// Write the option 1 inside double quotes
-        b: "if (a!)",                  ///// Write the option 2 inside double quotes
-        c: "if(a!==null)",                  ///// Write the option 3 inside double quotes
-        d: "if(a!=null)"                   ///// Write the option 4 inside double quotes
+        a: "0",                  ///// Write the option 1 inside double quotes
+        b: "1",                  ///// Write the option 2 inside double quotes
+        c: "true",                  ///// Write the option 3 inside double quotes
+        d: "true"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },     
-    {
-      question: "Suppose we have a text ;human' that we want to convert into string without using the 'new' operator. Which is the correct way from the following to do so:?",  ///// Write the question inside double quotes
-      answers: {
-        a: "Both human.toString() and String(human)",                  ///// Write the option 1 inside double quotes
-        b: "toString()",                  ///// Write the option 2 inside double quotes
-        c: "String(human)",                  ///// Write the option 3 inside double quotes
-        d: "String newvariable='human'"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
-    },        ///// To add more questions, copy the section below 
+   
+    
+    ///// To add more questions, copy the section below 
     									                  ///// this line
 
 

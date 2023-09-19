@@ -12,7 +12,7 @@
 <br>Q2)  const isTrue = true == ![]; <br> 
          const isFalse = false == []; <br> 
          console.log(isTrue + isFalse); <br>
-<br><b>a.  0 </b>
+<b>a.  0 </b>
 <br>b. 1
 <br>c. true  
 <br>d. false

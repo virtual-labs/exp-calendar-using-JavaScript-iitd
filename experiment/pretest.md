@@ -15,6 +15,6 @@
 <b>a.  0 </b>
 <br>b. 1
 <br>c. true  
-<br>d. false
+d. false
 <br>
 

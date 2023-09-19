@@ -89,28 +89,33 @@
 
 
     const myQuestions = [{
-            question: " Q1) What value will print to the console? Please select the closest answer: <br> const a = new Date('2023-01-01') <br> const b = new Date('2023-01-01T00:00') <br> console.log(a.getFullYear(), b.getFullYear())",
+            question: "Q1) Console.log(3>2>1); <br> Output of the code will be",
             answers: {
-                a: "2019 2023",
-                b: "2023 2021",
-                c: "2023 2023",
-                d: "2023 2019"
+                a: "True",
+                b: "False",
+                c: "Syntax Error",
+                d: "None"
 
-            },
-            correctAnswer: 'c'
-        },
-        {
-            question: "Q2) What value will print to the console? Please select the closest answer: <br> const d2 = new Date(2020, 1, 1) <br>  console.log(d2)",
-            answers: {
-                a: "2023-02-01",
-                b: "2023-01-01",
-                c: "2023-03-01",
-                d: "2023-04-01"
+
+
 
             },
             correctAnswer: 'b'
         },
 
+        {
+            question: "Q2) ? const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> 2.	Output of the code will be?",
+            answers: {
+                a: "0",
+                b: "1",
+                c: "true",
+                d: "false"
+
+
+
+            },
+            correctAnswer: 'a'
+        },
 
 
     ];
@@ -127,6 +132,7 @@
 
     // display quiz right away
     buildQuiz();
+
 
     // on submit, show results
     submitButton.addEventListener("click", showResults);

@@ -101,7 +101,7 @@
             correctAnswer: 'b'
         },
         {
-            question: "const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> Output of the code will be?",
+            question: "const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br>Output of the code will be?",
             answers: {
                 a: "0",
                 b: "1",

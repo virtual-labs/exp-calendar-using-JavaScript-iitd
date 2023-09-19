@@ -14,7 +14,7 @@
        console.log(isTrue + isFalse); <br>
 <b>a.  0 </b>
 <br>b. 1
-<br>c. true  
-d. false
+<br>c. true
+<br>d. false
 <br>
 

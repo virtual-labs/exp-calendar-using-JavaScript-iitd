@@ -1,8 +1,9 @@
 ## Post test
 <br>
-Q1)   1.	What value will print to the console?    Please select the closest answer: <br> 		         const a = new Date('2023-01-01') <br> 
-		const b = new Date('2023-01-01T00:00') <br> 
-		console.log(a.getFullYear(), b.getFullYear()) <br>
+Q1)   What value will print to the console?    Please select the closest answer: <br> 		         
+      const a = new Date('2023-01-01') <br> 
+      const b = new Date('2023-01-01T00:00') <br> 
+      console.log(a.getFullYear(), b.getFullYear()) <br>
 a.  2019 2023<br>
 b. 2023 2021 <br>
 c. <b>2023 2023</b> <br>

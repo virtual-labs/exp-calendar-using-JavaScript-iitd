@@ -88,8 +88,9 @@
     /////////////// Write the MCQ below in the exactly same described format ///////////////
 
 
-    const myQuestions = [{
-            question: "Q1) Console.log(3>2>1); <br> Output of the code will be",
+    const myQuestions = [
+        {
+            question: "Console.log(3>2>1); <br> Output of the code will be",
             answers: {
                 a: "True",
                 b: "False",
@@ -100,7 +101,7 @@
             correctAnswer: 'b'
         },
         {
-            question: "Q2) ? const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> 2.	Output of the code will be?",
+            question: "const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> 2.	Output of the code will be?",
             answers: {
                 a: "0",
                 b: "1",

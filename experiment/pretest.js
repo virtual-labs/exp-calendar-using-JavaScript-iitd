@@ -90,7 +90,7 @@
 
     const myQuestions = [
         {
-            question: "Console.log(3>2>1); <br> Output of the code will be",
+            question: " Console.log(3>2>1); <br> Output of the code will be",
             answers: {
                 a: "True",
                 b: "False",
@@ -101,7 +101,7 @@
             correctAnswer: 'b'
         },
         {
-            question: "const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> 2.	Output of the code will be?",
+            question: "const isTrue = true == ![]; <br> const isFalse = false == []; <br> console.log(isTrue + isFalse); <br> Output of the code will be?",
             answers: {
                 a: "0",
                 b: "1",

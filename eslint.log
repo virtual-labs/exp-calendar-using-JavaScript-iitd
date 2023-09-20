@@ -1,0 +1,23 @@
+
+/home/runner/work/exp-calendar-using-JavaScript-iitd/exp-calendar-using-JavaScript-iitd/experiment/posttest.js
+  18:18  warning  'letter' is not defined  no-undef
+  22:75  warning  'letter' is not defined  no-undef
+  23:15  warning  'letter' is not defined  no-undef
+  24:39  warning  'letter' is not defined  no-undef
+
+/home/runner/work/exp-calendar-using-JavaScript-iitd/exp-calendar-using-JavaScript-iitd/experiment/pretest.js
+  18:18  warning  'letter' is not defined  no-undef
+  22:75  warning  'letter' is not defined  no-undef
+  23:15  warning  'letter' is not defined  no-undef
+  24:39  warning  'letter' is not defined  no-undef
+
+/home/runner/work/exp-calendar-using-JavaScript-iitd/exp-calendar-using-JavaScript-iitd/experiment/simulation/js/scripts.js
+    1:10  warning  'showPreview' is defined but never used         no-unused-vars
+    7:10  warning  'showPreview2' is defined but never used        no-unused-vars
+   13:10  warning  'loadCalendar' is defined but never used        no-unused-vars
+   62:10  warning  'loadMonthHighlight' is defined but never used  no-unused-vars
+   94:10  warning  'loadDateHighlight' is defined but never used   no-unused-vars
+  133:10  warning  'loadCurrentDate' is defined but never used     no-unused-vars
+
+✖ 14 problems (0 errors, 14 warnings)
+
